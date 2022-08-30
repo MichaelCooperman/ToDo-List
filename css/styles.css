@@ -1,0 +1,39 @@
+body {
+  background-color: rgba(123, 230, 96, 0.582);
+  height: 100%;
+}
+
+input {
+  height: 15px;
+}
+
+button {
+  height: 21px;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main-container {
+  background-color: white;
+  height: 500px;
+  width: 500px;
+}
+
+.todo-list {
+  margin-left: 120px;
+  margin-top: 10px;
+}
